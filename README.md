@@ -3,6 +3,7 @@
 # Explanation:
 
 (1). There are 5 files in this depository :
+
      *  Leetcode SQL Easy Questions.docx
      
      * Leetcode SQL Medium & Hard Questions.docx
