@@ -19,7 +19,7 @@
 (3). The locked 3 files will be what I am working on next. 
 
 (4). If you  do not want to buy premium and try to search the locked questions everywhere, here is the right place 
-     for you. I added the reference sites in the docx as well in case you want to see the solutions. 
+     for you. I added the reference sites in the docx file as well in case you want to see the source solutions. 
      
   
  
