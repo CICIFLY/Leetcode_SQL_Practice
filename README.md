@@ -15,12 +15,12 @@
      * SQL Locked Hard Questions.docx
 
 
-### (2). My solutions are in the docx files. But you can find more discussion on leetcode.com. Here is a link to Leetcode SQL practice: 
+### (2). The solutions are in the docx files. But you can find more discussion on leetcode.com. Here is a link to Leetcode SQL practice: 
 
       https://leetcode.com/problemset/database/         
 
 
-### (3). My reference websites are: 
+### (3). References: 
          
      https://www.datageekinme.com/projects/leetcode-sql-solutions/    
      (This website contains not only solution but also the data to create the tables)
